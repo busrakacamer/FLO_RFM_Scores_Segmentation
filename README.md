@@ -43,6 +43,7 @@ FLO, which is an online shoe store, wants to divide its customers into segments 
 #### Features of Dataset
 
 Total Features : 12
+
 Total Row : 19.945
 
 #### Inputs:
