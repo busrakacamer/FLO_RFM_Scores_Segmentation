@@ -71,3 +71,10 @@ customer_value_total_ever_online: Total fee paid by the customer in online shopp
 
 interested_in_categories_12: List of categories where the customer shopping in the last 12 months
 
+
+###### Sources:
+https://www.techtarget.com/searchdatamanagement/definition/RFM-analysis
+
+https://enhencer.com/articles/advantages-and-inefficacies-of-rfm-segmentation/
+
+https://www.actioniq.com/blog/what-is-rfm-analysis/
